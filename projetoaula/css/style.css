@@ -1,0 +1,27 @@
+body{
+    background: #fff;
+    margin: 0px;
+}
+
+.tx{
+    border: 1px solid #000;
+    height: 28px;
+    padding-left: 5px;
+    color: #3d3de5;
+    width: 100%;
+    margin-top: 3px;
+}
+
+.bt{
+    color: #fff;
+    background: #1d841d;
+    border: none;
+    padding: 6px 20px;    
+}
+
+.centro{
+    margin: 0 auto;
+    display: table;
+    width:70%;
+    max-width: 70%;
+}
