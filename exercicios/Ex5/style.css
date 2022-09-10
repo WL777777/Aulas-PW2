@@ -1,0 +1,13 @@
+body{
+  background: rgb(247, 215, 148);
+}
+img{
+    width: 150px;
+    height: 100px;
+}
+.pai{
+
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-evenly;
+}
